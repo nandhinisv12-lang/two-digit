@@ -63,4 +63,4 @@ for first_digit in range(10):
 
             cv2.imwrite(save_path, combined)
 
-print("Double-digit dataset created successfully!")
+print("Double-digit Dataset Created Successfully!")
